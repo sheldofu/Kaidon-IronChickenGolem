@@ -2,6 +2,7 @@ package net.kaidon.chicken;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.kaidon.chicken.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -14,6 +15,6 @@ public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
-
+        ModItems.registerModItems();
 	}
 }
