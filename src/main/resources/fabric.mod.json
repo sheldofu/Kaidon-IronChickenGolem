@@ -5,7 +5,7 @@
 	"name": "Kaidon Iron Chicken Golem",
 	"description": "This is a Kaidon mod",
 	"authors": [
-		"Kaito",
+      "Kaito",
       "Sheldon"
 	],
 	"contact": {
@@ -29,7 +29,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.18.4",
-		"minecraft": "~1.21.11",
+		"minecraft": "~1.21.1",
 		"java": ">=21",
 		"fabric-api": "*"
 	}

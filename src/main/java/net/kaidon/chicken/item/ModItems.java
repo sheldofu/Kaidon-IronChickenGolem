@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
 
-    public static final Item TSU = registerItem("tsu",new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(KaidonIronChickenGolem.MOD_ID,"tsu")))));
+    public static final Item TSU = registerItem("tsu",new Item(new Item.Settings()));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(KaidonIronChickenGolem.MOD_ID, name), item);
