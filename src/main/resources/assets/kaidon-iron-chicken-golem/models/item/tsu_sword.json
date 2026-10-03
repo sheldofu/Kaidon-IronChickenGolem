@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "kaidon-iron-chicken-golem:item/tsu_sword"
+  }
+}
