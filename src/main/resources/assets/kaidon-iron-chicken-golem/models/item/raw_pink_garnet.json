@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kaidon-iron-chicken-golem:item/raw_pink_garnet"
+  }
+}
