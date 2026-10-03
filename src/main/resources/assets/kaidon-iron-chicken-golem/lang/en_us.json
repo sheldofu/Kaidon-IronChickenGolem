@@ -1,5 +1,7 @@
 {
   "item.kaidon-iron-chicken-golem.tsu": "Tsu",
   "item.kaidon-iron-chicken-golem.raw_pink_garnet": "Raw Pink Garnet",
-  "item.kaidon-iron-chicken-golem.tsu_sword": "Tsu Sword"
+  "item.kaidon-iron-chicken-golem.tsu_sword": "Tsu Sword",
+  "item.kaidon-iron-chicken-golem.chicken_golem_spawn_egg": "Chicken Iron Golem Spawn Egg",
+  "entity.kaidon-iron-chicken-golem.chicken_golem": "Chicken Iron Golem"
 }
